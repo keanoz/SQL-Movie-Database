@@ -1,3 +1,1 @@
-# Website
-# Keano-Zamora
-# Finance-app
+SQL Movie Database integrated with a website to query the database
